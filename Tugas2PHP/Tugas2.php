@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <h2 class="textform">Form Belanja</h2><br>
-<form action="tugas.php" method="POST" class="form">
+<form action="Tugas2.php" method="POST" class="form">
   <div class="form-group row">
     <label for="nama" class="col-4 col-form-label">Nama Pelanggan</label> 
     <div class="col-8">
